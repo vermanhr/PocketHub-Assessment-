@@ -1,0 +1,3 @@
+steps:
+  - command: "export ANDROID_SDK_ROOT=/home/ubuntu/snap/androidsdk/32/AndroidSDK && ./gradlew clean build -x test && appcenter login --token 2c53e88073f91ae72af88c9d336c093760abfc7e && appcenter distribute release --app ravindra.vermanhr-gmail.com/Pcokethub --file /var/lib/buildkite-agent/builds/instance-1-1/pockethub/pockethubtest-new/app/build/outputs/apk/release/app-release-unsigned.apk --group Collaborators"
+    label: "build"
