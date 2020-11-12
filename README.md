@@ -21,9 +21,9 @@ This repository contains the buildkite pipeline with  all the steps followed dur
 
 > Trigger Gradle build command 
 
-> login to apocenter 
+> login to appcenter 
 
-> Distribute build APK file in the App 
+> Distribute build .APK in the Appcenter Distribution with required parameter   
 
 # Screenshots:
 •	screenshots and evidence of the mobile app deployed to Visual Studio App Center
