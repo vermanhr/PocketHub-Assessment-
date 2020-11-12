@@ -5,7 +5,7 @@ This repository contains the buildkite pipeline with  all the steps followed dur
 
 > Configured Ubuntu build agent for buildkite pipeline 
 
-> Installed android SDK (sudo apt install android-sdk)
+> Installed android SDK
 
 > Installed Java
 
