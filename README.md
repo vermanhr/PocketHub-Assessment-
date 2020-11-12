@@ -35,4 +35,4 @@ This repository contains the buildkite pipeline with  all the steps followed dur
 # Notes:
  •During the build test cases were failing so tried build with bypassing the test cases. 
  
- •	BuildKite was very new CI setup for me , considering limited knowledge and short time duration I have used all credentials inside the pipeline only otherwise if we should     always pass credentials through variables or any other secrets manger service 
+ •	BuildKite was very new CI setup for me , considering limited knowledge and short time duration I have used all credentials inside the pipeline only, otherwise we should     always pass credentials through variables or any other secrets manger service 
